@@ -1,4 +1,4 @@
-# this can bw used to backup any docker volume only replacing containers and volume names
+# this powershell script can be used to backup any docker volume only replacing container and volume names
 
 backup-splunk-volumes.ps1:
 
